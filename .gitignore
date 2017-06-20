@@ -1,0 +1,26 @@
+.idea
+
+node_modules/
+*.log
+
+# Sub-package general excludes.
+*/*/node_modules/
+*/*/lib/
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+
+# misc
+npm-debug.log
+.DS_Store
+.npmrc
+Thumbs.db
+docker_shared
