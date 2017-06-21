@@ -23,4 +23,3 @@ npm-debug.log
 .DS_Store
 .npmrc
 Thumbs.db
-docker_shared
